@@ -5,6 +5,9 @@ Coding with your kids: Teaching your kids how to code
 
 # Coding is the gateway 
 
+### Kids Learning to Code | How England is pushing to teach coding in school
+https://youtu.be/YqHUKsGqUeo
+
 ### Let's teach kids to code - Mitch Resnick
 https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code#t-1407
 
