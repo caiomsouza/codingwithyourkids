@@ -1,4 +1,4 @@
-# codingwithyourkids
+# Coding With Your Kids
 Coding with your kids: Teaching your kids how to code
 
 # The world needs problem solver. 
