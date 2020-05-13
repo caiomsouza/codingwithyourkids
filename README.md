@@ -9,6 +9,10 @@ Coding with your kids: Teaching your kids how to code
 https://blogs.msdn.microsoft.com/smallbasic/2016/12/09/microsoft-coding-for-kids/
 https://techcommunity.microsoft.com/t5/small-basic-blog/microsoft-coding-for-kids/ba-p/337985#
 
+### Minecraft
+https://education.minecraft.net/
+https://code.org/minecraft
+
 ### How to teach children to code
 https://youtu.be/1M6X0kAfnoY
 
