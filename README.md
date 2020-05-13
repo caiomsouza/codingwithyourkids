@@ -5,6 +5,13 @@ Coding with your kids: Teaching your kids how to code
 
 # Coding is the gateway 
 
+### Microsoft Coding for Kids
+https://blogs.msdn.microsoft.com/smallbasic/2016/12/09/microsoft-coding-for-kids/
+https://techcommunity.microsoft.com/t5/small-basic-blog/microsoft-coding-for-kids/ba-p/337985#
+
+### How to teach children to code
+https://youtu.be/1M6X0kAfnoY
+
 ### Kids Learning to Code | How England is pushing to teach coding in school
 https://youtu.be/YqHUKsGqUeo
 
